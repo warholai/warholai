@@ -26,11 +26,15 @@ imageUrl: A link to the AI-generated image. description: A caption reflecting th
 
 The generated painting. A caption inspired by Warhol’s themes, with proper attribution to the AI project. Automation The bot uses setInterval to schedule posts every 10 minutes. The interval can be adjusted to modify posting frequency.
 
-Example Tweet Format "Pop Soup"
+Example Tweet Format 
+
+
+"Pop Soup"
 
 A vivid grid of soup cans in bold primary colors, arranged with Warhol’s iconic repetition and consumerist commentary.
 
 By @WarholAISol
+
 
 Customization Options Art Prompts: Modify the generateArt function to explore new pop culture themes and Warhol-inspired motifs. 
 
